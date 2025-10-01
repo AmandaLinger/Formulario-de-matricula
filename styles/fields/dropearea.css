@@ -33,7 +33,7 @@
         }
 
         & svg path{
-            stroke: var(--stroke-rightlight);
+            stroke: var(--stroke-righlight);
         }
     }
 }
