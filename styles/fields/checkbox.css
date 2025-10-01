@@ -28,7 +28,7 @@
         background-image: url(../../assets/icons/checkbox-default.svg);
     }
 
-    &:houver, &:focus-within{
+    &:hover, &:focus-within{
         .checkbox-image{
             background-image: url(../../assets/icons/checkbox-houver.svg);
         }
